@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @xddyp
-- 🌱 I’m currently learning Python and React
 - 📫 xiaodi.y.p@gmail.com
 
 <!---
